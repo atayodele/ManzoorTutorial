@@ -1,0 +1,8 @@
+C:\Users\tayeni\source\repos\ManZoorPract\ShortStory\SSBOL\bin\Debug\netcoreapp2.2\SSBOL.deps.json
+C:\Users\tayeni\source\repos\ManZoorPract\ShortStory\SSBOL\bin\Debug\netcoreapp2.2\SSBOL.dll
+C:\Users\tayeni\source\repos\ManZoorPract\ShortStory\SSBOL\bin\Debug\netcoreapp2.2\SSBOL.pdb
+C:\Users\tayeni\source\repos\ManZoorPract\ShortStory\SSBOL\obj\Debug\netcoreapp2.2\SSBOL.csprojAssemblyReference.cache
+C:\Users\tayeni\source\repos\ManZoorPract\ShortStory\SSBOL\obj\Debug\netcoreapp2.2\SSBOL.AssemblyInfoInputs.cache
+C:\Users\tayeni\source\repos\ManZoorPract\ShortStory\SSBOL\obj\Debug\netcoreapp2.2\SSBOL.AssemblyInfo.cs
+C:\Users\tayeni\source\repos\ManZoorPract\ShortStory\SSBOL\obj\Debug\netcoreapp2.2\SSBOL.dll
+C:\Users\tayeni\source\repos\ManZoorPract\ShortStory\SSBOL\obj\Debug\netcoreapp2.2\SSBOL.pdb

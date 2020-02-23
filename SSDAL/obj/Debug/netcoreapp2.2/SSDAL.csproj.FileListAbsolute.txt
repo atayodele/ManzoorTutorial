@@ -1,0 +1,13 @@
+C:\Users\tayeni\source\repos\ManZoorPract\ShortStory\SSDAL\bin\Debug\netcoreapp2.2\SSDAL.deps.json
+C:\Users\tayeni\source\repos\ManZoorPract\ShortStory\SSDAL\bin\Debug\netcoreapp2.2\SSDAL.runtimeconfig.json
+C:\Users\tayeni\source\repos\ManZoorPract\ShortStory\SSDAL\bin\Debug\netcoreapp2.2\SSDAL.runtimeconfig.dev.json
+C:\Users\tayeni\source\repos\ManZoorPract\ShortStory\SSDAL\bin\Debug\netcoreapp2.2\SSDAL.dll
+C:\Users\tayeni\source\repos\ManZoorPract\ShortStory\SSDAL\bin\Debug\netcoreapp2.2\SSDAL.pdb
+C:\Users\tayeni\source\repos\ManZoorPract\ShortStory\SSDAL\bin\Debug\netcoreapp2.2\SSBOL.dll
+C:\Users\tayeni\source\repos\ManZoorPract\ShortStory\SSDAL\bin\Debug\netcoreapp2.2\SSBOL.pdb
+C:\Users\tayeni\source\repos\ManZoorPract\ShortStory\SSDAL\obj\Debug\netcoreapp2.2\SSDAL.csprojAssemblyReference.cache
+C:\Users\tayeni\source\repos\ManZoorPract\ShortStory\SSDAL\obj\Debug\netcoreapp2.2\SSDAL.AssemblyInfoInputs.cache
+C:\Users\tayeni\source\repos\ManZoorPract\ShortStory\SSDAL\obj\Debug\netcoreapp2.2\SSDAL.AssemblyInfo.cs
+C:\Users\tayeni\source\repos\ManZoorPract\ShortStory\SSDAL\obj\Debug\netcoreapp2.2\SSDAL.csproj.CopyComplete
+C:\Users\tayeni\source\repos\ManZoorPract\ShortStory\SSDAL\obj\Debug\netcoreapp2.2\SSDAL.dll
+C:\Users\tayeni\source\repos\ManZoorPract\ShortStory\SSDAL\obj\Debug\netcoreapp2.2\SSDAL.pdb
